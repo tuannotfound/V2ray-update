@@ -8,7 +8,7 @@
 ## Giới thiệu
 Dự án này cung cấp file mạng sẽ được update thường xuyên để không phải khô khan vượt link kiếm mạng
 ## Cài đặt 
-1. Tải ứng dụng [V2rayNG].(https://play.google.com/store/apps/details?id=com.v2ray.ang)
+1. Tải ứng dụng [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang).
 2. Sau khi tải có thể bấm vào đây để thêm link update file mạng hoặc làm theo các bước sau.
 [BẤM VÀO ĐÂY (Chưa hoạt động)](v2rayng://install-config/?url=SubLink)
 3. Bấm vào dấu 3 gạch và chọn **Các gói đăng kí**
