@@ -46,7 +46,7 @@ Dự án này cung cấp file mạng sẽ được update thường xuyên để
 ## License
 [MIT-LICENSE.txt](https://github.com/tuannotfound/V2ray-update/blob/main/MIT-LICENSE.txt)
 ## Contact
-Facebook: [Wait](Wait)
+Facebook: [Wait](Wait).
 Project Link: https://github.com/tuannotfound/V2ray-update
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
