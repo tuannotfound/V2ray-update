@@ -1,5 +1,5 @@
 # Nơi đây update mạng thường xuyên!!
-**File mạng dùng cho V2rayNG**
+**Bạn muốn sử dụng mạng 4g miễn phí, hãy đến với dự án này nơi tôi sẽ update file mạng cho V2rayNG, Shadow rocket 24/7**
 ## Mục lục
 - I. [Giới thiệu](#giới-thiệu)
 - II. [Yêu cầu tối thiểu](#yêu-cầu-tối-thiểu)
