@@ -15,11 +15,15 @@ Dự án này cung cấp file mạng sẽ được update thường xuyên để
 ## Yêu cầu tối thiểu 
 - **Android** : Android 5 trở lên
 - **iOS** : iOS 12 trở lên
-- Phải đăng kí một trong số các gói mạng sau:
--  ```T30``` có 50gb (30K 1 Tháng gửi 191),
--   ```T7``` có 25gb (10K 1 tuần gửi 191)
--  ```T1``` vô hạn data (3K 1 ngày gửi 191)
--  ```LQ7``` (hiện có vẻ không thể đăng kí gói này)
+- Phải có sim, hiện không rõ các loại sim nào dùng được 
+- Phải đăng kí một trong số các gói mạng sau (nếu sim Viettel):
+-  ```T50K``` có 50gb (50K 1 Tháng gửi 191),
+-   ```T15KN``` có 25gb (15K 1 tuần gửi 191)
+-  ```T5K``` có 15gb (5K 1 ngày gửi 191)
+-  ```LQ7``` có 1gb/1 ngày (10k 1 tuần gửi 9748)
+-  ```LQ``` có 1gb (2k 1 ngày gửi 9748)
+-  ```LQ30N``` có 1gb/1 ngày (40k 1 tháng gửi 9748)
+-  Ngoài ra còn 1 số gói khác
 ## Cài đặt 
 ### Android
 1. Tải ứng dụng V2rayNG tại [Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang) hoặc [Github](https://github.com/2dust/v2rayNG)
@@ -50,5 +54,6 @@ Facebook: [Wait](Wait).
 
 
 Project Link: https://github.com/tuannotfound/V2ray-update
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
