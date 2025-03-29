@@ -1,4 +1,6 @@
 # Nơi đây update mạng thường xuyên!!
+# Dự án không còn được bảo trì! 
+# Nguồn file v2ray : https://t.me/c/1793257661/1110
 **Bạn muốn sử dụng mạng 4g miễn phí, hãy đến với dự án này nơi tôi sẽ update file mạng cho V2rayNG, Shadow rocket 24/7**
 ## Mục lục
 - I. [Giới thiệu](#giới-thiệu)
